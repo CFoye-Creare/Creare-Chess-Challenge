@@ -38,7 +38,7 @@ It has been necessary to make some bug fixes to the original project, and I've a
     * You can play against the bot yourself (Human vs Bot)
     * The bot can play a match against itself (MyBot vs MyBot)
     * The bot can play a match against a simple example bot (MyBot vs EvilBot).<br>You could also replace the EvilBot code with your own code, to test two different versions of your bot against one another.
-* Once you're happy with your chess bot, head over to the [Submission Page](https://forms.gle/6jjj8jxNQ5Ln53ie6) to enter it into the competition.
+* Once you're happy with your chess bot, email it to CFoye to submit it!
   * You will be able to edit your entry up until the competition closes.
 
 ## Rules
