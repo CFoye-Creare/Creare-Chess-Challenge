@@ -1,15 +1,11 @@
 # Chess Coding Challenge (C#)
-Welcome to the [chess coding challenge](https://youtu.be/iScy18pVR58)! This is a friendly competition in which your goal is to create a small chess bot (in C#) using the framework provided in this repository.
+Welcome to the unofficial Creare chess coding challenge This is a friendly competition in which your goal is to create a small chess bot (in C#) using the framework provided in this repository. It is based off this [chess coding challenge](https://youtu.be/iScy18pVR58).
+This repo is forked from the original challenge. 
+
 Once submissions close, these bots will battle it out to discover which bot is best!
 
-I will then create a video exploring the implementations of the best and most unique/interesting bots.
-I also plan to make a small game that features these most interesting/challenging entries, so that everyone can try playing against them.
-
-## Submissions are now closed
-Thank you so much to everyone who participated -- in total, 636 chess bots were submitted. Also, a huge extra thanks to everyone who contributed code, reported bugs in the framework (sorry about those!), and gave their time to help others getting started with the intricacies of chess programming.
-
-The results video is now out over [here](https://youtu.be/Ne40a5LkK6A).
-And the tournament data can be found [here](https://github.com/SebLague/Tiny-Chess-Bot-Challenge-Results).
+## Awards
+We will give out several awards. The winner of the round robin tournament will receive a special prize and bragging rights!
 
 ## Change Log
 It has been necessary to make some bug fixes to the original project, and I've also been tempted (by some great suggestions from the community) into making a few non-breaking improvements/additions to the API. I realize that changes can be frustrating during a challenge though, and so will commit to freezing the API from August 1st.
@@ -90,6 +86,7 @@ All names (variables, functions, etc.) are counted as a single token, regardless
   * You can look at `board.IsWhiteToMove` when the Think function is called
 * `GetPiece()` function is giving a null piece after making a move
   * Please make sure you are using the latest version of the project, there was a bug with this function in the original version
-* There is a community-run discord server [over here](https://github.com/SebLague/Chess-Challenge/discussions/156).
-* There is also an unofficial [live leaderboard](https://chess.stjo.dev/) created by a member of the community (source code available [here](https://github.com/StanislavNikolov/chess-league)).
-  
+* Contact CFoye if you have any questions/comments!
+
+## Resources
+I reccomend you check out [this website](https://www.chessprogramming.org/Main_Page) for Chess programming advice!
