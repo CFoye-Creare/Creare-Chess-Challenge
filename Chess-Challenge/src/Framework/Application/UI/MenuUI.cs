@@ -51,11 +51,6 @@ namespace ChessChallenge.Application
             {
                 FileHelper.OpenUrl("https://seblague.github.io/chess-coding-challenge/documentation/");
             }
-            if (NextButtonInRow("Submission Page", ref buttonPos, spacing, buttonSize))
-            {
-                FileHelper.OpenUrl("https://forms.gle/6jjj8jxNQ5Ln53ie6");
-            }
-
             // Window and quit buttons
             buttonPos.Y += breakSpacing;
 
